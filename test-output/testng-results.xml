@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-08T16:18:06 MYT" name="Default suite" finished-at="2024-11-08T16:18:07 MYT" duration-ms="1646">
+    <groups>
+    </groups>
+    <test started-at="2024-11-08T16:18:06 MYT" name="Default test" finished-at="2024-11-08T16:18:07 MYT" duration-ms="1646">
+      <class name="Tests.RegisterUserAPITest">
+        <test-method signature="createUserTest()[pri:0, instance:Tests.RegisterUserAPITest@6989da5e]" started-at="2024-11-08T16:18:06 MYT" name="createUserTest" finished-at="2024-11-08T16:18:07 MYT" duration-ms="1350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- Tests.RegisterUserAPITest -->
+      <class name="Tests.DeleteEmployeeAPITest">
+        <test-method signature="DeleteEmployeeTest()[pri:0, instance:Tests.DeleteEmployeeAPITest@3eb25e1a]" started-at="2024-11-08T16:18:07 MYT" name="DeleteEmployeeTest" finished-at="2024-11-08T16:18:07 MYT" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteEmployeeTest -->
+      </class> <!-- Tests.DeleteEmployeeAPITest -->
+      <class name="Tests.UpdateEmployeeAPITest">
+        <test-method signature="PostUpdateEmployeeTest()[pri:0, instance:Tests.UpdateEmployeeAPITest@477b4cdf]" started-at="2024-11-08T16:18:07 MYT" name="PostUpdateEmployeeTest" finished-at="2024-11-08T16:18:07 MYT" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostUpdateEmployeeTest -->
+      </class> <!-- Tests.UpdateEmployeeAPITest -->
+      <class name="Tests.CreateEmployeeAPITest">
+        <test-method signature="PostCreateEmployeeTest()[pri:0, instance:Tests.CreateEmployeeAPITest@77c2494c]" started-at="2024-11-08T16:18:07 MYT" name="PostCreateEmployeeTest" finished-at="2024-11-08T16:18:07 MYT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCreateEmployeeTest -->
+      </class> <!-- Tests.CreateEmployeeAPITest -->
+      <class name="Tests.LoginAPITest">
+        <test-method signature="PostLoginTest()[pri:0, instance:Tests.LoginAPITest@f5958c9]" started-at="2024-11-08T16:18:07 MYT" name="PostLoginTest" finished-at="2024-11-08T16:18:07 MYT" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostLoginTest -->
+      </class> <!-- Tests.LoginAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
